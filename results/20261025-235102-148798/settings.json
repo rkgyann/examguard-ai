@@ -1,0 +1,36 @@
+{
+  "rules": {
+    "Left seat area": [
+      2.0,
+      30
+    ],
+    "Repeated side turn": [
+      0.6,
+      30
+    ],
+    "Sustained sideways posture": [
+      0.65,
+      25
+    ],
+    "Reaching toward neighbour": [
+      0.45,
+      35
+    ],
+    "Phone detected": [
+      0.8,
+      40
+    ],
+    "Gathering": [
+      2.0,
+      35
+    ],
+    "Unusual movement": [
+      2.0,
+      25
+    ]
+  },
+  "settings": {
+    "sensitivity": "Short demo clips",
+    "exclude": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Time (seconds)": 7.12,
+  "Seat": "S03",
+  "Event": "Reaching toward neighbour",
+  "Activity start (seconds)": 6.625,
+  "Activity end (seconds)": 7.25,
+  "Supported seconds": 0.625,
+  "Confidence": 0.931,
+  "Risk score": 82,
+  "Risk": "High",
+  "Reason": "Reaching toward neighbour. Arm extends toward another person; object transfer is not verified. Review required.",
+  "Scene": 2,
+  "Event ID": "event-003",
+  "Evidence": "events/event-003/evidence.jpg",
+  "Raw evidence": "events/event-003/original.jpg",
+  "Clip": "events/event-003/activity.mp4",
+  "Original clip": "events/event-003/original.mp4",
+  "Clip start (seconds)": 5.625,
+  "Clip end (seconds)": 7.5
+}

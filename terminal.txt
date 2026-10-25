@@ -1,0 +1,15 @@
+For Mac:
+Terminal Commands are: 
+1.  python3 -m venv .venv
+2.  .venv/bin/python -m pip install --upgrade pip
+3.  .venv/bin/python -m pip install -r requirements.txt
+4.  .venv/bin/python -m streamlit run app.py
+
+Press Control+C to stop the web.
+
+For Windows:
+Powershell commands are: 
+1.  py -m venv .venv
+2.  .\.venv\Scripts\python.exe -m pip install --upgrade pip
+3.  .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+4.  .\.venv\Scripts\python.exe -m streamlit run app.py

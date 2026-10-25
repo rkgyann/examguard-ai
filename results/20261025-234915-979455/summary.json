@@ -1,0 +1,11 @@
+{
+  "scenes": 3,
+  "cuts": [
+    3.75,
+    7.5
+  ],
+  "sampled_frames": 80,
+  "valid_head_observations": 1097,
+  "phone_detections": 0,
+  "note": "Scene IDs are local to each camera view. No configured alert is not proof of no misconduct."
+}

@@ -1,0 +1,20 @@
+{
+  "Time (seconds)": 2.25,
+  "Seat": "S04",
+  "Event": "Sustained sideways posture",
+  "Activity start (seconds)": 1.5,
+  "Activity end (seconds)": 3.625,
+  "Supported seconds": 2.125,
+  "Confidence": 0.958,
+  "Risk score": 70,
+  "Risk": "High",
+  "Reason": "Sustained sideways posture. Nose/shoulder geometry changed; gaze and intent are unknown. Review required.",
+  "Scene": 1,
+  "Event ID": "event-001",
+  "Evidence": "events/event-001/evidence.jpg",
+  "Raw evidence": "events/event-001/original.jpg",
+  "Clip": "events/event-001/activity.mp4",
+  "Original clip": "events/event-001/original.mp4",
+  "Clip start (seconds)": 0.5,
+  "Clip end (seconds)": 3.75
+}

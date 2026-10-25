@@ -1,0 +1,434 @@
+[
+  {
+    "Scene": 1,
+    "Seat": "S09",
+    "Row": 1,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 79.0,
+    "Anchor y": 507.9
+  },
+  {
+    "Scene": 1,
+    "Seat": "S02",
+    "Row": 1,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 411.5,
+    "Anchor y": 521.1
+  },
+  {
+    "Scene": 1,
+    "Seat": "S01",
+    "Row": 1,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 840.0,
+    "Anchor y": 531.4
+  },
+  {
+    "Scene": 1,
+    "Seat": "S05",
+    "Row": 1,
+    "Column": 4,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1205.5,
+    "Anchor y": 533.3
+  },
+  {
+    "Scene": 1,
+    "Seat": "S04",
+    "Row": 2,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 472.3,
+    "Anchor y": 433.1
+  },
+  {
+    "Scene": 1,
+    "Seat": "S03",
+    "Row": 2,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 771.7,
+    "Anchor y": 429.2
+  },
+  {
+    "Scene": 1,
+    "Seat": "S13",
+    "Row": 2,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1076.9,
+    "Anchor y": 423.7
+  },
+  {
+    "Scene": 1,
+    "Seat": "S08",
+    "Row": 3,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 193.0,
+    "Anchor y": 406.6
+  },
+  {
+    "Scene": 1,
+    "Seat": "S14",
+    "Row": 4,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 68.8,
+    "Anchor y": 359.9
+  },
+  {
+    "Scene": 1,
+    "Seat": "S06",
+    "Row": 4,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 282.1,
+    "Anchor y": 357.7
+  },
+  {
+    "Scene": 1,
+    "Seat": "S07",
+    "Row": 4,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 511.2,
+    "Anchor y": 366.8
+  },
+  {
+    "Scene": 1,
+    "Seat": "S11",
+    "Row": 4,
+    "Column": 4,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 740.4,
+    "Anchor y": 366.8
+  },
+  {
+    "Scene": 1,
+    "Seat": "S12",
+    "Row": 4,
+    "Column": 5,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 971.9,
+    "Anchor y": 376.2
+  },
+  {
+    "Scene": 1,
+    "Seat": "S10",
+    "Row": 4,
+    "Column": 6,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1170.0,
+    "Anchor y": 365.9
+  },
+  {
+    "Scene": 1,
+    "Seat": "S17",
+    "Row": 5,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 337.0,
+    "Anchor y": 329.8
+  },
+  {
+    "Scene": 1,
+    "Seat": "S16",
+    "Row": 5,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 909.8,
+    "Anchor y": 336.1
+  },
+  {
+    "Scene": 1,
+    "Seat": "S15",
+    "Row": 5,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1071.3,
+    "Anchor y": 339.7
+  },
+  {
+    "Scene": 2,
+    "Seat": "S01",
+    "Row": 1,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 132.5,
+    "Anchor y": 397.1
+  },
+  {
+    "Scene": 2,
+    "Seat": "S03",
+    "Row": 1,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 401.6,
+    "Anchor y": 379.6
+  },
+  {
+    "Scene": 2,
+    "Seat": "S08",
+    "Row": 1,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 986.6,
+    "Anchor y": 392.9
+  },
+  {
+    "Scene": 2,
+    "Seat": "S07",
+    "Row": 1,
+    "Column": 4,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1168.3,
+    "Anchor y": 389.0
+  },
+  {
+    "Scene": 2,
+    "Seat": "S04",
+    "Row": 2,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 177.4,
+    "Anchor y": 326.7
+  },
+  {
+    "Scene": 2,
+    "Seat": "S10",
+    "Row": 2,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 253.3,
+    "Anchor y": 331.6
+  },
+  {
+    "Scene": 2,
+    "Seat": "S11",
+    "Row": 2,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 482.3,
+    "Anchor y": 330.9
+  },
+  {
+    "Scene": 2,
+    "Seat": "S14",
+    "Row": 2,
+    "Column": 4,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 747.0,
+    "Anchor y": 338.8
+  },
+  {
+    "Scene": 2,
+    "Seat": "S06",
+    "Row": 2,
+    "Column": 5,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 749.5,
+    "Anchor y": 338.2
+  },
+  {
+    "Scene": 2,
+    "Seat": "S05",
+    "Row": 2,
+    "Column": 6,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1048.6,
+    "Anchor y": 329.1
+  },
+  {
+    "Scene": 2,
+    "Seat": "S09",
+    "Row": 2,
+    "Column": 7,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1144.3,
+    "Anchor y": 319.5
+  },
+  {
+    "Scene": 2,
+    "Seat": "S02",
+    "Row": 2,
+    "Column": 8,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1209.2,
+    "Anchor y": 337.7
+  },
+  {
+    "Scene": 2,
+    "Seat": "S12",
+    "Row": 3,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 308.2,
+    "Anchor y": 316.4
+  },
+  {
+    "Scene": 2,
+    "Seat": "S13",
+    "Row": 3,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 904.1,
+    "Anchor y": 317.2
+  },
+  {
+    "Scene": 3,
+    "Seat": "S14",
+    "Row": 1,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 78.0,
+    "Anchor y": 511.4
+  },
+  {
+    "Scene": 3,
+    "Seat": "S02",
+    "Row": 1,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 411.7,
+    "Anchor y": 520.0
+  },
+  {
+    "Scene": 3,
+    "Seat": "S01",
+    "Row": 1,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 844.2,
+    "Anchor y": 527.7
+  },
+  {
+    "Scene": 3,
+    "Seat": "S06",
+    "Row": 1,
+    "Column": 4,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1233.4,
+    "Anchor y": 531.6
+  },
+  {
+    "Scene": 3,
+    "Seat": "S05",
+    "Row": 2,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 472.8,
+    "Anchor y": 426.3
+  },
+  {
+    "Scene": 3,
+    "Seat": "S04",
+    "Row": 2,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 769.3,
+    "Anchor y": 429.9
+  },
+  {
+    "Scene": 3,
+    "Seat": "S07",
+    "Row": 2,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1074.7,
+    "Anchor y": 420.3
+  },
+  {
+    "Scene": 3,
+    "Seat": "S09",
+    "Row": 3,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 195.5,
+    "Anchor y": 403.2
+  },
+  {
+    "Scene": 3,
+    "Seat": "S15",
+    "Row": 4,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 68.8,
+    "Anchor y": 359.1
+  },
+  {
+    "Scene": 3,
+    "Seat": "S10",
+    "Row": 4,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 284.7,
+    "Anchor y": 356.7
+  },
+  {
+    "Scene": 3,
+    "Seat": "S12",
+    "Row": 4,
+    "Column": 3,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 509.6,
+    "Anchor y": 362.9
+  },
+  {
+    "Scene": 3,
+    "Seat": "S11",
+    "Row": 4,
+    "Column": 4,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 740.5,
+    "Anchor y": 366.2
+  },
+  {
+    "Scene": 3,
+    "Seat": "S08",
+    "Row": 4,
+    "Column": 5,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 969.7,
+    "Anchor y": 373.9
+  },
+  {
+    "Scene": 3,
+    "Seat": "S13",
+    "Row": 4,
+    "Column": 6,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1169.7,
+    "Anchor y": 365.5
+  },
+  {
+    "Scene": 3,
+    "Seat": "S17",
+    "Row": 5,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 906.9,
+    "Anchor y": 335.5
+  },
+  {
+    "Scene": 3,
+    "Seat": "S16",
+    "Row": 5,
+    "Column": 2,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 1070.1,
+    "Anchor y": 338.2
+  },
+  {
+    "Scene": 3,
+    "Seat": "S03",
+    "Row": 6,
+    "Column": 1,
+    "Position source": "Estimated visible seats",
+    "Anchor x": 629.9,
+    "Anchor y": 315.7
+  }
+]
