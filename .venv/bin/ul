@@ -1,0 +1,6 @@
+#!/Users/rkgyani/Library/CloudStorage/OneDrive-DITUniversity/examguard-ai/.venv/bin/python
+import sys
+from ultralytics_platform.cli import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())
